@@ -69,7 +69,7 @@ border: 3px solid var(--accent-color);
   border-radius: 10px;
 }
 .game:hover {
-  transform: scale(0.95); /* Scale up on hover */
+  transform: scale(1.75); /* Scale up on hover */
   border: 2px solid var(--accent-color);
   
   
